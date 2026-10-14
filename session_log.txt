@@ -1,0 +1,103 @@
+Script started on 2026-10-13 18:08:42+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+vboxuser@ubunto:~$ pwd
+/home/vboxuser
+vboxuser@ubunto:~$ ls
+Desktop	   Downloads  Pictures	Templates  message.txt	    snap
+Documents  Music      Public	Videos	   session_log.txt
+vboxuser@ubunto:~$ ls /s use r
+bin  games  include  lib  lib64	 libexec  local	 sbin  share  src
+vboxuser@ubunto:~$ ls ` ` ~ /use r
+/home/vboxuser:
+Desktop	   Downloads  Pictures	Templates  message.txt	    snap
+Documents  Music      Public	Videos	   session_log.txt
+
+/usr:
+bin  games  include  lib  lib64	 libexec  local	 sbin  share  src
+vboxuser@ubunto:~$ ls -a
+.	       .bashrc	.local	  Documents  Public	  session_log.txt
+..	       .cache	.profile  Downloads  Templates	  snap
+.bash_history  .config	.ssh	  Music	     Videos
+.bash_logout   .gnupg	Desktop	  Pictures   message.txt
+vboxuser@ubunto:~$ cd Desktop
+vboxuser@ubunto:~/Desktop$ cd ..
+vboxuser@ubunto:~$ cd ../Documen  ents
+bash: cd: ../Documents: No such file or directory
+vboxuser@ubunto:~$ cd Documents
+vboxuser@ubunto:~/Documents$ cd ..
+vboxuser@ubunto:~$ cd C Desktop
+vboxuser@ubunto:~/Desktop$ mkdir m se ed    yedMOhib
+vboxuser@ubunto:~/Desktop$ mkdir mdir1 mydirykdir mdir1 mydirkdir mdir1 mydir kdir mdir1 mydir vboxuser@ubunto:~/Desktop$ kdir mdir1 mydir mdir mdir1 mydirydir mdir1 mydirvboxuser@ubunto:~/Desktop$ mydvboxuser@ubunto:~/Desktop$ mydivboxuser@ubunto:~/Desktop$ mydirvboxuser@ubunto:~/Desktop$ mydir vboxuser@ubunto:~/Desktop$ mydir mvboxuser@ubunto:~/Desktop$ mydir mdvboxuser@ubunto:~/Desktop$ mydir mdivboxuser@ubunto:~/Desktop$ mydir mdirvboxuser@ubunto:~/Desktop$ mydir mdir1vboxuser@ubunto:~/Desktop$ mydir mdir1 vboxuser@ubunto:~/Desktop$ mydir mdir1 mvboxuser@ubunto:~/Desktop$ mydir mdir1 myvboxuser@ubunto:~/Desktop$ mydir mdir1 mydvboxuser@ubunto:~/Desktop$ mydir mdir1 mydivboxuser@ubunto:~/Desktop$ mydir mdir1 mydir2 mydir3
+Command 'mydir' not found, did you mean:
+  command 'mmdir' from deb simh (3.8.1-6.3)
+  command 'mkdir' from deb coreutils-from-gnu (0.0.0~ubuntu25)
+  command 'mkdir' from deb coreutils-from-uutils (0.0.0~ubuntu25)
+  command 'mkdir' from deb coreutils-from-busybox (0.0.0~ubuntu25)
+  command 'mkdir' from deb coreutils-from-toybox (0.0.0~ubuntu25)
+  command 'mdir' from deb mtools (4.0.49-1)
+Try: sudo apt install <deb name>
+vboxuser@ubunto:~/Desktop$ cp    ls
+syedMOhib
+vboxuser@ubunto:~/Desktop$ cp syedMOhib
+cp: missing destination file operand after 'syedMOhib'
+Try 'cp --help' for more information.
+vboxuser@ubunto:~/Desktop$ cp SyedMOhi           nao no ali.txt "hello"
+[?2004h                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [ New File ][ ali.txt -- 0 lines ]  [1/2]                            ali.txt    ^X Close     ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line*                                                                              [?2004lvboxuser@ubunto:~/Desktop$ ls
+ali.txt	 syedMOhib
+vboxuser@ubunto:~/Desktop$   cp ali.txt syedMOhib
+vboxuser@ubunto:~/Desktop$ cd  ls S syedMOhib
+ali.txt
+vboxuser@ubunto:~/Desktop$ mv ali.txt syedMOhib
+vboxuser@ubunto:~/Desktop$ ls
+syedMOhib
+vboxuser@ubunto:~/Desktop$ m cd syedMOhib
+vboxuser@ubunto:~/Desktop/syedMOhib$ mv ali.txt Desktop
+vboxuser@ubunto:~/Desktop/syedMOhib$ ls
+Desktop
+vboxuser@ubunto:~/Desktop/syedMOhib$ cd ..
+vboxuser@ubunto:~/Desktop$ ls
+syedMOhib
+vboxuser@ubunto:~/Desktop$ rm    cd sed  yedMOhib
+vboxuser@ubunto:~/Desktop/syedMOhib$ rm  cp    ls
+Desktop
+vboxuser@ubunto:~/Desktop/syedMOhib$ rm DEs  esktop
+vboxuser@ubunto:~/Desktop/syedMOhib$ ls
+vboxuser@ubunto:~/Desktop/syedMOhib$ nano ali.txt 
+[?2004h                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [ New File ]  GNU nano 8.7.1                        ali.txt                     ^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          [?2004h  GNU nano 8.7.1                                                           ali.txt *                                                                  ^C Cancel                            M-R Reg.exp.                         ^R No Replace                        ^N NewerSearch (to replace): |         N No           ^C Cancel                                                                                                                   ^G Help  ^C Cancel                     M-M Mac Format                M-P Prepend                   ^Q Discard bufferWrite to File: ali.txte    Save file under N No           ^C Cancel                                                                                  ^G Help                       M-D DOS Form^C Cancel                     M-M Mac Format                M-P Prepend                   ^Q Discard bufferWrite to File: ali.            c Save file N No           ^C Cancel                                                                                  ^G Help                       M-D DOS Form^C Cancel                     M-M Mac Format                M-P Prepend                   ^Q Discard bufferWrite to File: ali.                        N No           ^C Cancel                                                                                                                            ^X Exit         ^R Read File    ^\ Replace      ^U Paste        ^J Justify      ^/ Go To Line   M-E Redo        M-6 Copy        ^B Where WasSave modi N No           ^C Cancel                                                                                                                                                     [?2004lvboxuser@ubunto:~/Desktop/syedMOhib$ ls
+vboxuser@ubunto:~/Desktop/syedMOhib$ syed    nao no s                                                                                     vboxuser@ubunto:~/Desktop/syedMOhib$ touch mohib.txt
+vboxuser@ubunto:~/Desktop/syedMOhib$ ls
+mohib.txt
+vboxuser@ubunto:~/Desktop/syedMOhib$ cat > ali.txt
+hi i am mohib
+^X
+he  ^X
+
+x=  cat < ali.txt
+exit
+^X
+cat ..    >> ali.txt
+^C
+vboxuser@ubunto:~/Desktop/syedMOhib$ ls
+ali.txt	 mohib.txt
+vboxuser@ubunto:~/Desktop/syedMOhib$ get gi  de it hi.txt
+Command 'gedit' not found, but can be installed with:
+sudo apt install gedit
+vboxuser@ubunto:~/Desktop/syedMOhib$ less ali.txt
+WARNING: terminal is not fully functional
+Press RETURN to continue 
+hi i am mohib
+^X
+^X
+
+cat < ali.txt
+exit
+^X
+cat >> ali.txt
+ali.txt (END)(END)(END)(END) ^X^X^J^J(END)(END)
+
+|^
+
+|^hi i am mohib
+^X
+^X
+
+cat < ali.txt
